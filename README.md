@@ -1,6 +1,6 @@
-# shamela-extract
+# local-shamela-extract-skill
 
-A Vibe skill for extracting the full text of downloaded books from a local
+A AI-generated Vibe skill for extracting the full text of downloaded books from a local
 Maktaba Shamela (shamela.ws) Linux install into clean, LLM-digestible Arabic
 markdown — the source-side workflow for Arabic-to-English book translation
 projects, replacing OCR entirely.
